@@ -1,0 +1,11 @@
+**  COMANDOS PARA INSTALAÇÃO DO YUNO HOST **
+
+```
+Comando 1
+```
+
+```
+apt update -y && apt upgrade -y && apt autoremove -y
+```
+
+    #curl https://install.yunohost.org | bash
